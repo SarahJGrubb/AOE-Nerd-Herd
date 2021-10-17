@@ -1,0 +1,12 @@
+#main-nav .nav-container {
+    flex-direction: column;
+}
+#main-nav .nav-container #logo{
+    flex-direction: column;
+}
+#showcase .showcase-container {
+    height: 30vh;
+}
+#showcase .showcase-content {
+    font-size: 1rem;
+}
